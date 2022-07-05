@@ -1,1 +1,1 @@
-# splunk_intregration
+# splunk_integration
